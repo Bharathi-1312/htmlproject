@@ -1,4 +1,4 @@
-/*global $, jQuery, console, alert, prompt */
+
 $(function() {
   "use strict";
   // All Variable ==========================================================================
