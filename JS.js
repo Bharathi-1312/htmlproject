@@ -1,9 +1,9 @@
 
 $(function() {
   "use strict";
-  // All Variable ==========================================================================
+  
   var parallex = $(".parent > .parallex");
-  // Scroll ================================================================================
+
 
   $(window).on('scroll', function() {
     parallex.css({
